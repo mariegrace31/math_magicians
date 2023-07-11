@@ -12,21 +12,21 @@ Math Magicians is a website for all fans of mathematics. It is a Single Page App
 
 <!-- TABLE OF CONTENTS -->
 ## <b>Table of Contents 📗
-- [Built With 🛠](#built-with)
-- [Key Features 🏷️](#key-features)
-- [Screenshot 📷](#screenshot)
-- [Live Demo🚀](#live-demo)
-- [Prerequisites 🧱](#prerequisites)
-- [Setup ⚙️](#setup)
-- [Install 🏗️](#install)
-- [Usage 📂](#usage)
-- [Author 👤](#author)
-- [Contributing 🤝](#contributing)
-- [Show your support 🌟](#support)
-- [Acknowledgements 🙏](#acknowledgements)
-- [FAQ ❓](#fap)
-- [License 📝](#license)
-</b><br><br><br><br>
+- [**Math-magicians**](#math-magicians)
+  - [Math Magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote.](#math-magicians-is-a-website-for-all-fans-of-mathematics-it-is-a-single-page-app-spa-that-allows-users-to-make-simple-calculations-and-read-a-random-math-related-quote)
+  - [Table of Contents 📗](#table-of-contents-)
+  - [**Built With 🛠**](#built-with-)
+    - [**Key Features 🏷️** ](#key-features-️-)
+  - [**Prerequisites 🧱**](#prerequisites-)
+  - [**Setup ⚙️**](#setup-️)
+  - [\*\* 🏗️\*\*](#-️)
+  - [**Usage 📂**](#usage-)
+  - [**Future features**](#future-features)
+  - [**Authors 👤**:](#authors-)
+  - [**Contributing 🤝**](#contributing-)
+  - [**Show your support 🌟**](#show-your-support-)
+  - [**Acknowledgments 🙏**](#acknowledgments-)
+  - [License 📝](#license-)
 
 ---
 <!-- BUILT WITH -->
@@ -104,11 +104,16 @@ npx eslint . --fix
 ## **Usage 📂**<a name="usage"></a>
 Open page in browser
 ```sh
-$ open dist/index.html
+$ npm start
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ---
+<!-- Future features -->
+## **Future features**<a name="Future-fetures"></a>
+-Feature 1: Add logic for the calculator
+-Feature 2: Impliment keyboard layout
+
 <!-- AUTHORS -->
 ## **Authors 👤**<a name="author"></a>:
 - Twitter: [@mariegracebmg](https://twitter.com/mariegracebmg)
@@ -159,6 +164,6 @@ I would like to express our sincere gratitude to [Microverse](https://github.com
 <!-- LICENCE -->
 ## <b>License 📝</b><a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./license) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
