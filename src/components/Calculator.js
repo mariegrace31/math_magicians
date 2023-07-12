@@ -1,15 +1,12 @@
 import Buttons from './Button';
-import OtherButtons from './OtherButton';
 import Result from './Result';
+import './Calculator.css';
 
 function Calculator() {
   return (
-    <div>
+    <div className="Calc-container">
       <Result />
-      <div>
-        <div><Buttons /></div>
-        <OtherButtons />
-      </div>
+      <Buttons />
     </div>
   );
 }

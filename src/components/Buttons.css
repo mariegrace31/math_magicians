@@ -4,8 +4,31 @@
   box-sizing: border-box;
 }
 
-.Container {
-  display: flex;
+.buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(5, 1fr);
+  gap: 0;
   justify-content: center;
   align-items: center;
+  width: 290px;
+  margin: auto;
+}
+
+.button {
+  font-size: 18px;
+  background-color: #ece9e9;
+  border: 1px solid #b6b5b5;
+  height: 60px;
+}
+
+.button.zero {
+  grid-column: span 2;
+}
+
+.right-button {
+  font-size: 18px;
+  background-color: #f7923f;
+  border: 1px solid #b6b5b5;
+  height: 60px;
 }
