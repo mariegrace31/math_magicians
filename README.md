@@ -112,7 +112,7 @@ $ npm start
 <!-- Future features -->
 ## **Future features**<a name="Future-fetures"></a>
 -Feature 1: Add logic for the calculator
--Feature 2: Impliment keyboard layout
+-Feature 2: Add events to the calculator
 
 <!-- AUTHORS -->
 ## **Authors 👤**<a name="author"></a>:
