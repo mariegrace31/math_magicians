@@ -18,7 +18,7 @@ function Calculator() {
   };
   return (
     <div className="Calc-container">
-      <Result value={displayData} />
+      <Result show={displayData} />
       <Buttons handleClick={resultData} />
     </div>
   );
