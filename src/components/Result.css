@@ -7,6 +7,7 @@
 .Result-container {
   background-color: #6e6e6e;
   width: 290px;
+  height: 50px;
   align-items: center;
   display: flex;
   flex-direction: column;

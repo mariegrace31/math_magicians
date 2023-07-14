@@ -111,8 +111,7 @@ $ npm start
 ---
 <!-- Future features -->
 ## **Future features**<a name="Future-fetures"></a>
--Feature 1: Add logic for the calculator
--Feature 2: Add events to the calculator
+-Feature 1: Fetch data from API
 
 <!-- AUTHORS -->
 ## **Authors 👤**<a name="author"></a>:
