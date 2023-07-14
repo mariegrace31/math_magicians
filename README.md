@@ -111,7 +111,7 @@ $ npm start
 ---
 <!-- Future features -->
 ## **Future features**<a name="Future-fetures"></a>
--Feature 1: Fetch data from API
+-Feature 1: deployement of my project using github pages
 
 <!-- AUTHORS -->
 ## **Authors 👤**<a name="author"></a>:
