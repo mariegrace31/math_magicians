@@ -1,10 +1,14 @@
 import './Result.css';
 import React from 'react';
+import PropTypes from 'prop-types';
 
-function Result() {
+Text.propTypes = {
+  value: PropTypes.node.isRequired,
+};
+function Result({value}) {
   return (
     <div className="Result-container">
-      <h1 className="result">0</h1>
+      <h1 className="result">{value.next || value.total}</h1>
     </div>
   );
 }
