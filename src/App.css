@@ -3,3 +3,16 @@
   margin: 0;
   box-sizing: border-box;
 }
+
+.myQuote {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+  margin-top: 150px;
+  background-color: #f7923f;
+  padding: 30px;
+  border: 2px solid grey;
+  border-radius: 10px;
+}
