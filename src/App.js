@@ -5,10 +5,10 @@ import CalculatorPage from './components/CalculatorPage';
 import './App.css';
 
 const App = () => (
-    <Routes>
-      <Route path = '/' element = {<Home />} />
-      <Route path = '/calculator' element = {<CalculatorPage />} />
-      <Route path = '/quote' element = {<MyQuote />} />
-    </Routes>
+  <Routes>
+    <Route path="/" element={<Home />} />
+    <Route path="/calculator" element={<CalculatorPage />} />
+    <Route path="/quote" element={<MyQuote />} />
+  </Routes>
 );
 export default App;

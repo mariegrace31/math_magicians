@@ -10,12 +10,12 @@ const Home = () => {
       <Navbar />
       <main>
         <h3>{greeting}</h3>
-        <div className='paragraph'>
+        <div className="paragraph">
           <p>{description}</p>
         </div>
       </main>
     </div>
   );
-  };
+};
 
 export default Home;

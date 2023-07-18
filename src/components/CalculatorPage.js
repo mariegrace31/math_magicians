@@ -1,12 +1,12 @@
 import React from 'react';
 import Navbar from './NavBar';
-import  Calculator from './Calculator';
+import Calculator from './Calculator';
 
 const CalculatorPage = () => (
   <div>
     <Navbar />
     <main>
-      <h2>Let's do some Math!</h2>
+      <h2>Let`&apos;`s do some Math!</h2>
       <Calculator />
     </main>
   </div>
