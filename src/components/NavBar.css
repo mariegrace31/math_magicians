@@ -1,0 +1,40 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px;
+  padding: 30px;
+  border-radius: 8px;
+  align-items: center;
+  background-color: #f1d8c4;
+}
+
+.Title {
+  font-weight: 700;
+  font-size: 35px;
+}
+
+nav ul {
+  display: flex;
+  gap: 25px;
+  list-style: none;
+}
+
+nav ul li {
+  font-size: 20px;
+  padding-right: 10px;
+}
+
+nav ul li:nth-child(1),
+nav ul li:nth-child(2) {
+  border-right: 2px solid #f7923f;
+}
+
+nav ul li a {
+  color: black;
+  text-decoration: none;
+}
+
+nav ul li a:hover {
+  text-decoration: underline;
+  color: #f1720a;
+}
