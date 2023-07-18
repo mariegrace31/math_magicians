@@ -1,15 +1,14 @@
-import Calculator from './components/Calculator';
+import { Routes, Route } from 'react-router-dom';
+import MyQuote from './components/QuotePage';
+import Home from './components/HomePage';
+import CalculatorPage from './components/CalculatorPage';
 import './App.css';
-import Quotes from './components/someQuotes';
 
-function App() {
-  return (
-    <div>
-      <Calculator />
-      <div className="myQuote">
-        <Quotes />
-      </div>
-    </div>
-  );
-}
+const App = () => (
+    <Routes>
+      <Route path = '/' element = {<Home />} />
+      <Route path = '/calculator' element = {<CalculatorPage />} />
+      <Route path = '/quote' element = {<MyQuote />} />
+    </Routes>
+);
 export default App;
