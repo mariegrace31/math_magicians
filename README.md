@@ -34,6 +34,7 @@ Math Magicians is a website for all fans of mathematics. It is a Single Page App
 
   <ul>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML5</a> markup to build raw structure of this web page</li><br>
+    <li><a href="https://react.dev/">React</a></li><br>
     <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS3</a> custom properties, <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">FlexBox</a>, <a href="https://www.w3schools.com/css/css_grid.asp">Grid</a> to make the website visually attractive</li><br>
     <li><a href="https://reactjs.org/">Javascript</a></li><br>
     <li><a href="https://mozilla.github.io/addons-linter/">Linters</a> for coding convention and coding formating</li>
@@ -112,12 +113,15 @@ $ npm start
 <!-- Future features -->
 ## **Future features**<a name="Future-fetures"></a>
 -Feature 1: deployement of my project using github pages
--Feature 2: Full website 
+-Feature 2: Mobile version
 
 <!-- AUTHORS -->
 ## **Authors 👤**<a name="author"></a>:
+👤 **Author 1**
+
+- GitHub: [@mariegrace31](https://github.com/mariegrace31)
 - Twitter: [@mariegracebmg](https://twitter.com/mariegracebmg)
-- LinkedIn: [Marie Grâce Bahati](https://www.linkedin.com/in/marie-gr%C3%A2ce-bahati-546765224/)
+- LinkedIn: [Marie Grace Bahati](https://linkedin.com/in/marie-gr%C3%A2ce-bahati-546765224)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +131,7 @@ $ npm start
 <!-- CONTRIBUTING -->
 ## **Contributing 🤝**<a name="contributing"></a>
 
-If you have suggestions 📝, ideas 🤔, or bug reports 🐛, please feel free to open an [issue](https://github.com/mariegrace31/Meal_Gallery/issues) on GitHub.
+If you have suggestions 📝, ideas 🤔, or bug reports 🐛, please feel free to open an [issue](https://github.com/mariegrace31/math_magicians/issues) on GitHub.
 Remember, every contribution, no matter how big or small, makes a difference.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

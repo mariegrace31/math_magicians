@@ -1,4 +1,5 @@
 import { useEffect, useState } from 'react';
+import './Quote.css';
 
 function Quotes() {
   const [loading, setLoading] = useState(true);
@@ -28,11 +29,11 @@ function Quotes() {
   }, []);
 
   if (loading) {
-    return <div>Loading Quotes....</div>;
+    return <div className="Quote">Loading Quotes....</div>;
   } if (errors) {
-    return <div>Error quote received</div>;
+    return <div className="Quote">Error quote received</div>;
   } if (quotes) {
-    return <div>{quotes[0].quote}</div>;
+    return <div className="Quote">{quotes[0].quote}</div>;
   }
 }
 
