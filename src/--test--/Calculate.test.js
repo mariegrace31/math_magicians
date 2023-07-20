@@ -5,15 +5,17 @@ import { render, fireEvent, screen } from '@testing-library/react';
 import Buttons from '../components/Button';
 import Calculator from '../components/Calculator';
 import CalculatorPage from '../components/CalculatorPage';
+
 import textMatcher from '../components/textMatcher';
 import '@testing-library/jest-dom/extend-expect';
 
 describe('Buttons component', () => {
+ const mockHandleClick = jest.fn();
   it('should matche DOM Snapshot', async () => {
     const tree = renderer
       .create(
         <MemoryRouter>
-          <Buttons />
+          <Buttons handleClick={mockHandleClick}/>
         </MemoryRouter>,
       )
       .toJSON();
