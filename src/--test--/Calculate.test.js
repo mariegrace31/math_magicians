@@ -10,12 +10,12 @@ import textMatcher from '../components/textMatcher';
 import '@testing-library/jest-dom/extend-expect';
 
 describe('Buttons component', () => {
- const mockHandleClick = jest.fn();
+  const mockHandleClick = jest.fn();
   it('should matche DOM Snapshot', async () => {
     const tree = renderer
       .create(
         <MemoryRouter>
-          <Buttons handleClick={mockHandleClick}/>
+          <Buttons handleClick={mockHandleClick} />
         </MemoryRouter>,
       )
       .toJSON();

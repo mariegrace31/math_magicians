@@ -13,7 +13,7 @@ describe('Navigation menu component', () => {
           <Navbar />
         </MemoryRouter>,
       )
-      
+
       .toJSON();
     expect(tree).toMatchSnapshot();
   });
