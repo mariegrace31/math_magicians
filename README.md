@@ -117,11 +117,18 @@ $ npm start
 
 <!-- AUTHORS -->
 ## **Authors 👤**<a name="author"></a>:
-👤 **Author 1**
+**Author 1**
+👤 **Marie Grace**
 
 - GitHub: [@mariegrace31](https://github.com/mariegrace31)
 - Twitter: [@mariegracebmg](https://twitter.com/mariegracebmg)
 - LinkedIn: [Marie Grace Bahati](https://linkedin.com/in/marie-gr%C3%A2ce-bahati-546765224)
+
+ **Author 2**
+👤 **Melkamu Alemawu**
+
+- GitHub: [@melkamu12](https://github.com/melkamu12)
+- LinkedIn: [melkamu-almawu](https://www.linkedin.com/in/melkamu-almawu/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
