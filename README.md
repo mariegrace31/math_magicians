@@ -95,7 +95,7 @@ Install all dependencies:
 ```sh
     npm install
 ```
-Run the following code to fixed possible JavaScript linter errors:
+Run the following code to fix possible JavaScript linter errors:
 ```
 npx eslint . --fix
 ```
@@ -129,6 +129,12 @@ $ npm start
 
 - GitHub: [@melkamu12](https://github.com/melkamu12)
 - LinkedIn: [melkamu-almawu](https://www.linkedin.com/in/melkamu-almawu/)
+
+ **Author 3**
+👤 **Melkamu Alemawu**
+
+- GitHub: [@malikhaiderkhan](https://github.com/malikhaiderkhan)
+- LinkedIn: [malik-haider](https://www.linkedin.com/in/malik-haider-khan-b53188140)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
