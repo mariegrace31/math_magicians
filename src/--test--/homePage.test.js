@@ -5,7 +5,6 @@ import { MemoryRouter } from 'react-router-dom';
 import Home from '../components/HomePage';
 import '@testing-library/jest-dom/extend-expect';
 
-
 describe('Home page component', () => {
   it('should match DOM Snapshot', () => {
     const tree = renderer
