@@ -112,8 +112,7 @@ $ npm start
 ---
 <!-- Future features -->
 ## **Future features**<a name="Future-fetures"></a>
--Feature 1: deployement of my project using github pages
--Feature 2: Mobile version
+Feature 1: Mobile version
 
 <!-- AUTHORS -->
 ## **Authors 👤**<a name="author"></a>:
