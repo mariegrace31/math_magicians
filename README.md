@@ -10,6 +10,7 @@ Math Magicians is a website for all fans of mathematics. It is a Single Page App
   <br/>
 </div>
 
+
 <!-- TABLE OF CONTENTS -->
 ## <b>Table of Contents 📗
 - [**Math-magicians**](#math-magicians)
