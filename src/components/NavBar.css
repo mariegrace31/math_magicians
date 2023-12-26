@@ -38,3 +38,9 @@ nav ul li a:hover {
   text-decoration: underline;
   color: #f1720a;
 }
+
+@media (max-width: 768px) {
+  .Title {
+  font-size: 20px;
+  }
+}
