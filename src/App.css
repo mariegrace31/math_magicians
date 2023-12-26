@@ -18,8 +18,10 @@
 }
 
 @media (max-width: 768px) {
-  font-size: 18px;
-  width: 90%;
-  margin-top: 80px;
-  padding: 10px;
+  .myQuote {
+    font-size: 18px;
+    width: 90%;
+    margin-top: 80px;
+    padding: 10px;
+  }
 }
